@@ -4,6 +4,8 @@
 
 官网：[https://potato-ai.pages.dev/](https://potato-ai.pages.dev/)
 
+> **本软件的Git仓库仅有源码Batch文件。模型和llama依赖都嵌入在官网里的发行版。**
+
 ## 版本说明
 
 - **本软件的 `qwen_in` 版本**：已内置 `Qwen2.5-7B-Instruct-Q4_K_M.gguf` 模型，开箱即用。
@@ -55,4 +57,3 @@
 
 - ***本软件完全基于 [llama.cpp](https://github.com/ggerganov/llama.cpp) 和 Windows Batch 构建。***
 - ***如需获取原代码或有版权相关问题，请通过微信联系：18210005362***
-- 
